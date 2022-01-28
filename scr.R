@@ -24,3 +24,7 @@ seatcnt_trnd <- seatcnt_trnd_raw %>%
 
 trnd_data <- headcnt_trnd %>% 
   left_join(seatcnt_trnd, by = c("term_id", "week")) %>% 
+  
+  
+GO CRAzy!!!!!!!!!!!!!!!!!!!
+  
